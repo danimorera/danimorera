@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate data analyst from Barcelona</h3>
 
-- 🔭 I’m currently working on **IT Academy Back-End with NodeJS**
+- 🔭 I’m currently working on **Data Management and Quality Assurance**
 
-- 🌱 I’m currently learning **Node, Databases, Data Analytics**
+- 🌱 I’m currently learning **T-SQL, DAX, Python**
 
-- 💬 Ask me about **Javascript, SQL, (Power) Excel, Power BI, QGIS**
+- 💬 Ask me about **Javascript, SQL, Power BI, QGIS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
