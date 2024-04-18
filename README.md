@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **T-SQL, DAX, Python**
 
-- 💬 Ask me about **Javascript, SQL, Power BI, QGIS**
+- 💬 Ask me about **Power BI, Power Query, GIS, Node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
